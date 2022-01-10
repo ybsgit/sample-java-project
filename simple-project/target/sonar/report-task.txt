@@ -1,0 +1,6 @@
+projectKey=com.packt.cookbook:simple-project
+serverUrl=http://34.125.215.64:9000
+serverVersion=9.2.4.50792
+dashboardUrl=http://34.125.215.64:9000/dashboard?id=com.packt.cookbook%3Asimple-project
+ceTaskId=AX5Cn2kc35Zd9DXLYHE4
+ceTaskUrl=http://34.125.215.64:9000/api/ce/task?id=AX5Cn2kc35Zd9DXLYHE4
